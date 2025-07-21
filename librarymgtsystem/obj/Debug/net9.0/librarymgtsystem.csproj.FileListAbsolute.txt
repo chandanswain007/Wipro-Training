@@ -1,0 +1,4 @@
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.AssemblyInfoInputs.cache
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.AssemblyInfo.cs
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.csproj.CoreCompileInputs.cache

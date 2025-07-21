@@ -1,0 +1,4 @@
+C:\Users\swain\Documents\C# language\studentmgtsystem\obj\Debug\net9.0\studentmgtsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\Documents\C# language\studentmgtsystem\obj\Debug\net9.0\studentmgtsystem.AssemblyInfoInputs.cache
+C:\Users\swain\Documents\C# language\studentmgtsystem\obj\Debug\net9.0\studentmgtsystem.AssemblyInfo.cs
+C:\Users\swain\Documents\C# language\studentmgtsystem\obj\Debug\net9.0\studentmgtsystem.csproj.CoreCompileInputs.cache

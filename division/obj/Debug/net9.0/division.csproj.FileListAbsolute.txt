@@ -1,0 +1,14 @@
+C:\Users\swain\Documents\C# language\division\bin\Debug\net9.0\division.exe
+C:\Users\swain\Documents\C# language\division\bin\Debug\net9.0\division.deps.json
+C:\Users\swain\Documents\C# language\division\bin\Debug\net9.0\division.runtimeconfig.json
+C:\Users\swain\Documents\C# language\division\bin\Debug\net9.0\division.dll
+C:\Users\swain\Documents\C# language\division\bin\Debug\net9.0\division.pdb
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.AssemblyInfoInputs.cache
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.AssemblyInfo.cs
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.csproj.CoreCompileInputs.cache
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.dll
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\refint\division.dll
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.pdb
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\division.genruntimeconfig.cache
+C:\Users\swain\Documents\C# language\division\obj\Debug\net9.0\ref\division.dll

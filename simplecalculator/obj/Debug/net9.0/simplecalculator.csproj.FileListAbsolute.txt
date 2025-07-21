@@ -1,0 +1,14 @@
+C:\Users\swain\Documents\C# language\simplecalculator\bin\Debug\net9.0\simplecalculator.exe
+C:\Users\swain\Documents\C# language\simplecalculator\bin\Debug\net9.0\simplecalculator.deps.json
+C:\Users\swain\Documents\C# language\simplecalculator\bin\Debug\net9.0\simplecalculator.runtimeconfig.json
+C:\Users\swain\Documents\C# language\simplecalculator\bin\Debug\net9.0\simplecalculator.dll
+C:\Users\swain\Documents\C# language\simplecalculator\bin\Debug\net9.0\simplecalculator.pdb
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.AssemblyInfoInputs.cache
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.AssemblyInfo.cs
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.csproj.CoreCompileInputs.cache
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.dll
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\refint\simplecalculator.dll
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.pdb
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\simplecalculator.genruntimeconfig.cache
+C:\Users\swain\Documents\C# language\simplecalculator\obj\Debug\net9.0\ref\simplecalculator.dll
