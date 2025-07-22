@@ -12,3 +12,4 @@ C:\Users\swain\Documents\C# language\loops\obj\Debug\net9.0\refint\loops.dll
 C:\Users\swain\Documents\C# language\loops\obj\Debug\net9.0\loops.pdb
 C:\Users\swain\Documents\C# language\loops\obj\Debug\net9.0\loops.genruntimeconfig.cache
 C:\Users\swain\Documents\C# language\loops\obj\Debug\net9.0\ref\loops.dll
+C:\Users\swain\Documents\C# language\loops\obj\Debug\net9.0\loops.sourcelink.json
