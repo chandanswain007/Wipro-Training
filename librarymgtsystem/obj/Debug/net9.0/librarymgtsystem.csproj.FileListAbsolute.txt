@@ -2,3 +2,14 @@ C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymg
 C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.AssemblyInfoInputs.cache
 C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.AssemblyInfo.cs
 C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.csproj.CoreCompileInputs.cache
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.sourcelink.json
+C:\Users\swain\Documents\C# language\librarymgtsystem\bin\Debug\net9.0\librarymgtsystem.exe
+C:\Users\swain\Documents\C# language\librarymgtsystem\bin\Debug\net9.0\librarymgtsystem.deps.json
+C:\Users\swain\Documents\C# language\librarymgtsystem\bin\Debug\net9.0\librarymgtsystem.runtimeconfig.json
+C:\Users\swain\Documents\C# language\librarymgtsystem\bin\Debug\net9.0\librarymgtsystem.dll
+C:\Users\swain\Documents\C# language\librarymgtsystem\bin\Debug\net9.0\librarymgtsystem.pdb
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.dll
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\refint\librarymgtsystem.dll
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.pdb
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\librarymgtsystem.genruntimeconfig.cache
+C:\Users\swain\Documents\C# language\librarymgtsystem\obj\Debug\net9.0\ref\librarymgtsystem.dll

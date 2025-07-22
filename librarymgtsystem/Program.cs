@@ -39,8 +39,8 @@ class Program
 
         // Print book details
         // Complete Step 7:............
-        Console.ReadLine("The Book Details are:- " + b.Title);
-        Console.ReadLine("The Book Details are:- " + b.Author);
-        Console.ReadLine("The Book Details are:- "+b.Year);
+        Console.WriteLine("The Book Details are:- " + b.Title);
+        Console.WriteLine("The Book Details are:- " + b.Author);
+        Console.WriteLine("The Book Details are:- "+b.Year);
     }
 }
